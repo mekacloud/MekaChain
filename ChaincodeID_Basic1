@@ -1,0 +1,8 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "status": "OK",
+    "message": "7c2b1471bb848ad768acb6b1be669598e9cc1f274e3ff3c1457e1821d1304945f8b84b2d990c2821932dab2dae9e93e9a7ce5091618fc4759e1b2ded54442082"
+  },
+  "id": 0
+}
